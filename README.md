@@ -10,4 +10,4 @@ Hardware (current):
 * ultrasonic or normal speakers can be sourced for $2 USD each
 * current development (still prototyping) is using a Raspberry Pi 4 B.  Final product will likely be a Raspberry Pi Zero, or an Arduino or ESP8266.
 
-[Challenges](Challenges.md)
+[Challenges](Challenges/Challenges.md)
