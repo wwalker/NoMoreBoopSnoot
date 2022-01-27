@@ -11,4 +11,5 @@ Hardware (current):
 * current development (still prototyping) is using a Raspberry Pi 4 B.  Final product will likely be a Raspberry Pi Zero, or an Arduino or ESP8266.
 
 [Challenges](Challenges/Challenges.md)
+
 [Progress](Progress/Progress.md)
