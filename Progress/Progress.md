@@ -6,3 +6,6 @@ Should be ready to test in the morning.
 
 2022-01-22:
 Vino passed today.  Never got to test the setup.
+
+2022-02-09:
+In communication with possible alpha testers.

@@ -11,3 +11,12 @@ Must consider moving to another platform.  These are possibilities:
 * Various Arduino Uno-ish devices
 * Various ESP8266 devices
 * Various  SAMD21 devices (usually arduino compatible)
+
+Rough microcontroller power consumptions:
+
+| Controller     | current draw  | Info                                                              |
+| ---            | ---           | ---                                                               |
+| RPi 4          | 400 to 900 mA | Easy, but a power pig                                             |
+| RPi Zero W     | 300 mA        | Still easy less power                                             |
+| RPi Zero       | 100 mA        | Still easy, no wifi, program changes more involved                |
+| seeeduino Xaio | 20 mA         | Medium hard, very limited memory, CPU speed, USB programming only |
